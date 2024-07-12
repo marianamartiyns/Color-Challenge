@@ -21,8 +21,8 @@ Este projeto foi desenvolvido para praticar programação em C# e a criação de
 ### Cena 1 - Portal
 ![Cena 1](imagens/cena1-portal.png)
 
-### Cena 2 - Instruções
-![Cena 2](imagens/cena3.png)
+### Cena 3 - Instruções
+![Cena 3](imagens/cena3.png)
 
 ## Como Executar o Projeto
 
